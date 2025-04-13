@@ -1,0 +1,45 @@
+html,body {
+    font-family: Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+   
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.header img {
+    height: 50px;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   margin-inline-start: auto;
+}
+th, td {
+    border: 1px solid #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+.team-logo {
+    height: 100px;
+}
+body {
+background-image: url('https://static.gazetaesportiva.com/uploads/imagem/2021/11/14/000_9RM9Q3-1-scaled.jpg');
+background-size: cover ; /* Ajusta a imagem para cobrir toda a tela */
+background-position: center ; /* Centraliza a imagem */
+background-repeat: no-repeat; /* Evita repetição da imagem */
+background-attachment: fixed; /* Mantém a imagem fixa enquanto a página rola */
+
+}
+
+
+
